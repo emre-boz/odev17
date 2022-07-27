@@ -1,1 +1,29 @@
-safsdf
+Template Literals (şablon dizileri):  
+https://codesandbox.io/s/odev17-template-literals-loelbi
+
+Shorthand Property Names (kısayol obje anahtarı isimleri):
+https://codesandbox.io/s/odev17-shorhand-property-names-3jvwqh
+
+Arrow Functions (oklu fonksiyon ifadeleri): 
+https://codesandbox.io/s/odev17-arrow-functions-xhzsb6
+
+Object/Array Destructuring (obje/dizilerin parçalarına bölünüp değişkenlere atanması): 
+https://codesandbox.io/s/odev17-object-array-desrructuring-logdc6
+
+Parameter Defaults (varsayılan parametreler değerleri):
+https://codesandbox.io/s/odev17-paramater-defaults-qgrxwu
+
+Rest/Spread Operator (toparlama/yayma operatörü):
+https://codesandbox.io/s/odev17-rest-spread-operator-k7pe0k
+
+ESModules (ES modülleri):
+https://codesandbox.io/s/odev17-es-modules-lxzsu2
+
+Ternary Conditional Operators (üç değişkenli koşul operatörleri):
+https://codesandbox.io/s/odev17-ternary-conditional-operators-utvpjp
+
+Array Methods (dizi metodları):
+https://codesandbox.io/s/odev17-array-methods-dxg7m0
+
+Promises and async/await:
+https://codesandbox.io/s/odev17-promises-async-await-zmeq4o
